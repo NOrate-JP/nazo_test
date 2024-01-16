@@ -1,0 +1,5 @@
+{
+    "type": "move",
+    "value": "success.html",
+    "comment": "正解"
+}
